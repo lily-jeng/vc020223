@@ -1,3 +1,4 @@
+
 In the world of code and data,
 We strive for truth and accuracy,
 with version control, we keep track,
@@ -23,4 +24,9 @@ So let us embrace version control,
 And data analytics, our ultimate goal,
 To seek the truth and understand,
 The world around us, hand in hand
+
+Version control for analytics,
+Ensures accuracy and reproducability,
+with every change tracked and noted,
+Our insights remain reliable and quotable
 
